@@ -1,0 +1,21 @@
+table#admin {
+    width: 100%;
+    background-color: #f1f1c1;
+}
+
+table#admin tr:nth-child(even) {
+    background-color: #eee;
+}
+
+table#admin tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+table#admin th {
+    color: white;
+    background-color: black;
+}
+
+th {
+    text-align: left;
+}
